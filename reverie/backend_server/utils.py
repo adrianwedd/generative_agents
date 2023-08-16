@@ -1,5 +1,5 @@
 # Copy and paste your OpenAI API Key
-openai_api_key = "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" #generative_agents
+openai_api_key = "" #generative_agents
 # Put your name
 key_owner = "Adrian"
 
