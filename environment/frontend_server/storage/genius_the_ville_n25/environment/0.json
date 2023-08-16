@@ -1,0 +1,127 @@
+{
+  "Isaac Newton": {
+    "maze": "the_ville",
+    "x": 16,
+    "y": 18
+  },
+  "Albert Einstein": {
+    "maze": "the_ville",
+    "x": 26,
+    "y": 18
+  },
+  "William Shakespeare": {
+    "maze": "the_ville",
+    "x": 36,
+    "y": 18
+  },
+  "Isaac Asimov": {
+    "maze": "the_ville",
+    "x": 16,
+    "y": 32
+  },
+  "Leonardo da Vinci": {
+    "maze": "the_ville",
+    "x": 26,
+    "y": 32
+  },
+  "Carl Sagan": {
+    "maze": "the_ville",
+    "x": 53,
+    "y": 14
+  },
+  "Jesus": {
+    "maze": "the_ville",
+    "x": 65,
+    "y": 19
+  },
+  "Noam Chomsky": {
+    "maze": "the_ville",
+    "x": 72,
+    "y": 14
+  },
+  "Elon Musk": {
+    "maze": "the_ville",
+    "x": 86,
+    "y": 18
+  },
+  "Stephen Hawking": {
+    "maze": "the_ville",
+    "x": 94,
+    "y": 18
+  },
+  "Beyoncé": {
+    "maze": "the_ville",
+    "x": 126,
+    "y": 46
+  },
+  "Wolfgang Amadeus Mozart": {
+    "maze": "the_ville",
+    "x": 123,
+    "y": 57
+  },
+  "Martin Luther King Jr.": {
+    "maze": "the_ville",
+    "x": 118,
+    "y": 61
+  },
+  "Mahatma Gandhi": {
+    "maze": "the_ville",
+    "x": 107,
+    "y": 62
+  },
+  "Malcolm X": {
+    "maze": "the_ville",
+    "x": 90,
+    "y": 74
+  },
+  "Aung San Suu Kyi": {
+    "maze": "the_ville",
+    "x": 91,
+    "y": 74
+  },
+  "Simone de Beauvoir": {
+    "maze": "the_ville",
+    "x": 93,
+    "y": 74
+  },
+  "Hedy Lamarr": {
+    "maze": "the_ville",
+    "x": 72,
+    "y": 74
+  },
+  "Super-Intelligent AI": {
+    "maze": "the_ville",
+    "x": 73,
+    "y": 74
+  },
+  "David Attenborough": {
+    "maze": "the_ville",
+    "x": 54,
+    "y": 74
+  },
+  "Nikola Tesla": {
+    "maze": "the_ville",
+    "x": 57,
+    "y": 74
+  },
+  "George Orwell": {
+    "maze": "the_ville",
+    "x": 20,
+    "y": 65
+  },
+  "Confucius": {
+    "maze": "the_ville",
+    "x": 28,
+    "y": 65
+  },
+  "Carl Jung": {
+    "maze": "the_ville",
+    "x": 36,
+    "y": 65
+  },
+  "David Suzuki": {
+    "maze": "the_ville",
+    "x": 37,
+    "y": 65
+  }
+}
